@@ -1,0 +1,1 @@
+name, goblin, health, 30, attack_name, stabby stabby, damage, 50, speed, 80
